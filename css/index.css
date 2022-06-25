@@ -937,6 +937,7 @@ footer h2 img{
 	.section5 .section5a ul li .slide img:nth-child(2){
 		left:65%;
 		opacity:1;
+		/* background:#fff; */
 	}
 	.section5a ul:hover li .slide img:nth-child(1){
 		animation:sef1off 3s infinite alternate;
@@ -946,7 +947,7 @@ footer h2 img{
 	}
 	.section5a ul:hover li .slide img:nth-child(3){
 		animation:sef3off 3s infinite alternate;
-	}	
+	}
 
   /* ///// 푸터영역 */
 	/* 푸터 유틸 */
