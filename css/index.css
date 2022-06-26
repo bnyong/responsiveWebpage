@@ -755,6 +755,11 @@ footer h2 img{
 		background:#748080;
 	}
 
+	/* iframe을 위한 스크롤바 가리기 */
+	body::-webkit-scrollbar{
+		width:0px;
+	}
+
   /* ///////////// 모바일 헤더영역 */
   
   #moheader .mo_top{
